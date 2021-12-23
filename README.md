@@ -23,7 +23,7 @@
             </div>
             <div class="visual">
                 <div class="bg"></div>
-               
+                <img src="image/burger.png" alt="Burger">
             </div>
         </div>
     </div>
